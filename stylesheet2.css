@@ -1,0 +1,138 @@
+
+*{
+  font-family: Gill Sans;
+align-items: center;
+text-align: center;
+}
+
+a{
+
+  text-decoration: none;
+}
+
+.caption-main-logo{
+
+  position: absolute;
+  bottom:8px;
+  left:420px;
+
+  margin: 0px auto;
+}
+
+#white-blue{
+  background-color: white;
+  color:lightblue;
+  border:2px solid lightblue;
+  padding:4px;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+body{
+width:960px;
+margin: 0px auto;
+}
+header{
+  width:100%;
+  height:90px;
+  background-color: lightblue;
+}
+
+main{
+width:100%;
+position: relative;
+top: -20px;
+}
+
+.rub-a-dub{
+
+position: relative;
+top: 15px;
+}
+
+h4{background-color:white
+  text:blue;}
+
+h2 {
+  margin: 0;
+  padding: 20px 0;
+}
+section{
+
+  border-radius: 30px;
+  float:left;
+  width:300px;
+  margin:10px;
+  margin-bottom: 50px;
+  justify-content: center;
+  background-color: white;
+  height:520px;
+
+}
+
+#title-page{
+  position: relative;
+  height:325px;
+}
+
+footer{
+  border-radius: 10px;
+  width:100%;
+  margin-top:15px;
+  background-color: lightblue;
+  clear:left;
+}
+
+img{
+  border-radius:100%;
+  width:250px;
+  height:250px;
+  border:1px;
+  border: 5px lightblue solid;
+}
+
+#dog-icon{
+  margin:10px;
+  width:60px;
+  height:60px;
+  float:left;
+}
+ul{
+position: absolute;
+right:10px;
+top:10px;
+margin-right: 150px;}
+
+h4{
+  margin:0px;
+  padding:10px;
+}
+
+
+ li{
+   color:white;
+  display: inline-block;
+  text-decoration: none;
+  margin:10px;
+}
+
+.top-main{
+  background-image: url("images/park.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+#footer-text{
+  margin: 0px;
+    padding: 25px;
+}
+
+#git-hub{
+  margin-bottom: 2px;
+}
+
+.media-img{
+  width:50px;
+  height:50px;
+}

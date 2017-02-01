@@ -1,0 +1,115 @@
+*{
+  font-family: sans-serif;
+}
+
+body{
+  margin:0px auto;
+  width:900px;
+
+}
+
+header{
+  width:100%;
+  background-color:lightblue;
+  height:65px;
+}
+
+h2{
+  position: relative;
+  left:45px;
+  top:5px;
+}
+
+.title-page-img{
+position:relative;
+left:325px;
+top:20px;
+width:250px;
+height:250px}
+
+#dog-icon{
+ position:relative;
+ top:15px;
+ left:10px;
+  width:40px;
+  height:40px;
+  border-radius:100%;
+}
+nav{position: relative;}
+
+ul{
+  display:inline-block;
+position: absolute;;
+top:0;
+right:100px;}
+li{
+  margin:10px;
+  display: inline-block;
+  color:white;
+}
+
+a{
+  text-decoration: none;
+  color:inherit;
+}
+
+
+.top-main{
+  background-image: url("images/park.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  width:100%;
+  height:400px;
+border:red 1 px solid;
+}
+
+section{
+width:30%;
+float:left;
+border:blue 2px solid;
+
+}
+
+
+
+h2{
+  position: relative;
+  left:300px;
+  margin:0px auto;
+}
+
+.title-page-img{
+  left:300px
+  width:250px
+  height:250px
+  border-radius:100%;
+}
+
+.lower-image{
+margin: 0px auto;
+width:150px;
+height:150px;
+border-radius:100%}
+
+bottom-section{
+  align-content: center;
+}
+
+img{
+  border-radius:100%;
+}
+.bottom-main{
+  height:400px;
+  border:1px red solid;
+}
+footer{
+border:black solid 1px;
+  margin-top:10px;
+  height:100px;
+  position:relative;
+  top: 100px;
+}
+.footer-logo{
+  display:inline-block;
+}
